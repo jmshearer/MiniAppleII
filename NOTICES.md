@@ -6,11 +6,9 @@ This project incorporates material from the projects listed below. The original 
 
 ## Mini Apple ][ Model
 
-- **License**: ISC License
+- **License**: [Creative Commons - Attribution - Non-Commercial license](https://creativecommons.org/licenses/by-nc/4.0/)
 - **Source**: [Thingiverse](https://www.thingiverse.com/thing:3643947)
 - **Author**: RabitEngineering
-
-[Creative Commons - Attribution - Non-Commercial license](https://creativecommons.org/licenses/by-nc/4.0/)
 
 **You are free to:**
 - Share — copy and redistribute the material in any medium or format
