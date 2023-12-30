@@ -1,5 +1,5 @@
 # Miniature Apple II with working screen
-<img align="left" width="150" height="150" src="docs/Assembled.png"></img>
+<img align="left" width="150" height="150" src="Docs/Assembled.png"></img>
 The Miniature Apple IIe project was inspired by this [Tiny Raspberry Pi Zero Mac](https://www.instructables.com/Making-a-Tiny-Mac-From-a-Raspberry-Pi-Zero) and many other attempts at making Pi-based Apple computers, including many Apple II's.  I found the screen on the working Mac model to be too small to really be usable and, while certainly impressive, generally unnecessary to trigger all of the nostalgia endorphins.  This project attempts to create a simple-to-build and cost-effect (less than $20) Apple II that can be used to display some sweet, sweet nostalgia (hello, Oregon Trail) or as a platform for more advanced projects.  In addition to being cheap ($5), the XIAO ESP32C23 microcontroller has BLE and Wifi so it could serve up some pretty impressive content.
 
 ### A note on history...
@@ -56,7 +56,7 @@ If you're just getting started with electronics, it's a good idea to solder the 
 4. Upload the INO to the controller and verify that it works.
 
 ### Assembly
-<img width="150" height="150" src="docs/Rear.png"></img>
+<img width="150" height="150" src="Docs/Rear.png"></img>
 1. **Feed the programmed & tested microcontroller through the front of the unit.**  Do not actually attach the LCD to the plastic yet (just leave it dangling)
 2. **Snap the microcontroller "upside-down" into the holder by the USB port opening.**  This can be a bit tricky; you will need to make sure the USB-C port protrudes into the wall of the computer and will need to press firmly on the rear of the PCB to snap it below the nubs holding it in place.  If the microcontroller breaks loose during normal operation due to strain on the USB port, you can add a dab of hot glue at the rear of the PCB to keep it from popping up.
 4. **Install the LCD.**  The posts on the LCD should line up and slide inside of the holes on the monitor face.  Optionally screw in the LCD using the M2x6mm screws; be careful to not overtighten.
