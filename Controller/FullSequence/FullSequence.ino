@@ -186,7 +186,7 @@ void showAbout() {
   delay(500);
   
   lcd.DrawString_EN(30, 80,  " Mini Apple II", &Font16, BLACK, GREEN);
-  lcd.DrawString_EN(30, 100,  "(C) Shearer ", &Font16, BLACK, GREEN);
+  lcd.DrawString_EN(30, 100,  " (C) Shearer", &Font16, BLACK, GREEN);
   lcd.DrawString_EN(30, 120, "", &Font16, BLACK, GREEN);
   lcd.DrawString_EN(30, 140, "       2023", &Font16, BLACK, GREEN);  
   delay(1500);
