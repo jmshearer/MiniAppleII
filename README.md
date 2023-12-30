@@ -8,7 +8,7 @@ The model is technically based on an original Apple II with an Apple Monitor II,
 ## Assemble The Model
 
 ### Materials
-- 3D-printed Apple II case (will upload files)
+- 3D-printed Apple II case and components.
   - Beige PLA [Beige PLA](https://www.amazon.com/gp/product/B09TR8N5T2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
   - [Brown PLA](https://www.amazon.com/gp/product/B0991VV5SX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
   - Originally based on [Mini Apple II](https://www.thingiverse.com/thing:3643947) but heavily modified to support the electronics.
