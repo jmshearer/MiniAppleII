@@ -47,7 +47,7 @@ Viewing from the rear of the PCB (face down).  Double-check color codes.
           +---+
 ```
 
-If you're just getting started with electronics, it's a good idea to solder the headers onto the PCB and connect the LCD via the included breakout cable.  More experienced makers can cut the cable down to about 1.5" and solder directly onto the microcontroller.  Note that the controller will be "upside down" in the case; this orientation supports using the included headers and also wires soldered directly to the back.  I strongly recommend connecting the electronics and programming (next step) before assembling into the printed case, tempting as it might be.
+If you're just getting started with electronics, it's a good idea to solder the headers onto the PCB and connect the LCD via the included breakout cable.  More experienced makers can cut the cable down to about 1.5" and solder directly onto the microcontroller.  Note that the controller will be "upside down" in the case; this orientation supports using the included headers and also wires soldered directly to the back.  A notch in the XIAO "tray" inside the unit allows for the antenna to be attached.  I strongly recommend connecting the electronics and programming (next step) before assembling into the printed case, tempting as it might be.
 
 ### Programming
 1. Follow the instructions on [Seeed's Wiki](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) to set up the Arduino development environment.
