@@ -61,7 +61,7 @@ If you're just getting started with electronics, it's a good idea to solder the 
 2. **Snap the microcontroller "upside-down" into the holder by the USB port opening.**  This can be a bit tricky; you will need to make sure the USB-C port protrudes into the wall of the computer and will need to press firmly on the rear of the PCB to snap it below the nubs holding it in place.  If the microcontroller breaks loose during normal operation due to strain on the USB port, you can add a dab of hot glue at the rear of the PCB to keep it from popping up.
 4. **Install the LCD.**  The posts on the LCD should line up and slide inside of the holes on the monitor face.  Optionally screw in the LCD using the M2x6mm screws; be careful to not overtighten.
 5. **Position the optional wifi antenna** such that it is not bent and that the solder on the antenna will never come in contact with other electronics.  I recommend positioning it vertically with its solder-free side against the LCD.  Optionally attach the antenna with the included adhesive backing.
-6. **Snap the plastic pieces into place;** bezel, keyboard, and CRT back, being careful not to pinch any wires or the antenna with the CRT back.
+6. **Snap the plastic pieces into place;** bezel, keyboard, and CRT back, being careful not to pinch any wires or the antenna with the CRT back.  The ability to snap the pieces in place is a significant departure from the original 3D model.  Depending on your printer and settings, you may need to adjust tolerances.
 
 ## Customizing the Software
 ### Custom Graphics
