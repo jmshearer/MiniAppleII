@@ -79,7 +79,7 @@ Some things I'd like to do (also known as "exercises left for the reader")
 - Use Bluetooth or wifi for...something--make it a clock / weather station / subway tracker / whatever.
 - Implement USB host functionality and interface with HID devices and/or Bluetooth HID devices.
 - Make an actual BASIC or LOGO interpreter.  The Apple II had 4K...the XIAO has 4M!
-- Make an actual Apple II emulator...I have no idea if this is possible on the XIAO but I suspect that it is.
+- Make an actual Apple II emulator...this [appears to be possible](https://github.com/dpeckett/arduino-appleii) so somebody should go for it!
 
 ## Additional References
 - [Arduino Library .h File](https://github.com/limengdu/XIAO_ST7789V2_LCD_Display/blob/main/st7789v2.h)
