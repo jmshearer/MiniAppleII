@@ -9,8 +9,8 @@ The model is technically based on an original Apple II with an Apple Monitor II,
 
 ### Materials
 - 3D-printed Apple II case and components.
-  - Beige PLA [Beige PLA](https://www.amazon.com/gp/product/B09TR8N5T2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-  - [Brown PLA](https://www.amazon.com/gp/product/B0991VV5SX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+  - [Beige PLA](https://www.amazon.com/gp/product/B09TR8N5T2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+  - [Brown PLA](https://www.amazon.com/gp/product/B0991VV5SX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - This isn't the most accurate color, but it's what I had on hand and it fits the "80's nostalgia" theme.
   - Originally based on [Mini Apple II](https://www.thingiverse.com/thing:3643947) but heavily modified to support the electronics.
 - XIAO ST7789V2 LCD Display [Seeed Studio](https://www.seeedstudio.com/1-69inch-240-280-Resolution-IPS-LCD-Display-Module-p-5755.html) | [GitHub](https://github.com/limengdu/XIAO_ST7789V2_LCD_Display/) | [Buy on Digikey](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/104990802/21526011)
 - XIAO ESP32C23 Microcontroller [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | [Buy on digikey](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991054/16652880)
